@@ -22,4 +22,4 @@ tags:
 
 <object width="660" height="495"><param name="movie" value="http://www.fupa.com/swf/The-Great-Mouse-Detective-Color/the-great-mouse-detecter-online-coloring-game.swf"></param><embed src="http://www.fupa.com/swf/The-Great-Mouse-Detective-Color/the-great-mouse-detecter-online-coloring-game.swf" type="application/x-shockwave-flash" width="660" height="495"></embed></object><br/>Find more <a href="http://www.fupa.com/">free online flash games</a> at Fupa.com
 </ul>
-/* Tento film jsem vybrala, kvůli použitému videu, které popularizační a srozumitelnou formou podává výklad o "temném věku" Disney a následném vzniku renesance. (Krom toho je tento film jeden z mých nejoblíbenějších od Disney) */
+<!-- Tento film jsem vybrala, kvůli použitému videu, které popularizační a srozumitelnou formou podává výklad o "temném věku" Disney a následném vzniku renesance. (Krom toho je tento film jeden z mých nejoblíbenějších od Disney) !-->
